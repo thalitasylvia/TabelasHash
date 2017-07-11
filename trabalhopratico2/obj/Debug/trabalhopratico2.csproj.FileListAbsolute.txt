@@ -1,0 +1,12 @@
+C:\Users\1004277\Desktop\trabalhopratico2\trabalhopratico2\bin\Debug\trabalhopratico2.exe.config
+C:\Users\1004277\Desktop\trabalhopratico2\trabalhopratico2\bin\Debug\trabalhopratico2.exe
+C:\Users\1004277\Desktop\trabalhopratico2\trabalhopratico2\bin\Debug\trabalhopratico2.pdb
+C:\Users\1004277\Desktop\trabalhopratico2\trabalhopratico2\obj\Debug\trabalhopratico2.csprojResolveAssemblyReference.cache
+C:\Users\1004277\Desktop\trabalhopratico2\trabalhopratico2\obj\Debug\trabalhopratico2.exe
+C:\Users\1004277\Desktop\trabalhopratico2\trabalhopratico2\obj\Debug\trabalhopratico2.pdb
+E:\2- Sistemas de Informação\3º periodo\AED\trabalhopratico2\trabalhopratico2\bin\Debug\trabalhopratico2.exe.config
+E:\2- Sistemas de Informação\3º periodo\AED\trabalhopratico2\trabalhopratico2\obj\Debug\trabalhopratico2.exe
+E:\2- Sistemas de Informação\3º periodo\AED\trabalhopratico2\trabalhopratico2\obj\Debug\trabalhopratico2.pdb
+E:\2- Sistemas de Informação\3º periodo\AED\trabalhopratico2\trabalhopratico2\bin\Debug\trabalhopratico2.exe
+E:\2- Sistemas de Informação\3º periodo\AED\trabalhopratico2\trabalhopratico2\bin\Debug\trabalhopratico2.pdb
+E:\2- Sistemas de Informação\3º periodo\AED\trabalhopratico2\trabalhopratico2\obj\Debug\trabalhopratico2.csprojResolveAssemblyReference.cache
